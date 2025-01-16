@@ -32,7 +32,7 @@
     "node-cache-manager"
   ],
   "dependencies": {
-    "cache-manager": "^5.1.1",
+    "cache-manager": "^6.0.0",
     "fast-glob": "^3.2.12"
   },
   "devDependencies": {
